@@ -1,3 +1,17 @@
+# Prerequisites
+
+Install [node](https://nodejs.org/en/download/). 
+
+Example node install instructions for LTS node 14.x:
+```
+curl -sL https://deb.nodesource.com/setup_14.x | bash
+sudo apt install -y nodejs
+```
+
+Check your install with `node -v && npm -v`
+
+Install all packages with `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
